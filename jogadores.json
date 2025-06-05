@@ -1,0 +1,89 @@
+[
+  {
+    "regiao": "Internacional",
+    "cidades": [
+      { "cidade": "Porto", "estado": "Portugal", "coords": [41.1846, -8.6814] },
+      { "cidade": "Mexilhoeira Grande", "estado": "Portugal", "coords": [37.1667, -8.65] },
+      { "cidade": "Mosteiro", "estado": "Portugal", "coords": [40.8934, -7.9242] },
+      { "cidade": "Cheshire", "estado": "CT - EUA", "coords": [41.5084, -72.9044] },
+      { "cidade": "San Francisco", "estado": "CA - EUA", "coords": [37.77, -122.42] },
+      { "cidade": "Westchase", "estado": "FL - EUA", "coords": [28.0552, -82.6099] }
+    ]
+  },
+  {
+    "regiao": "Norte",
+    "cidades": [
+      { "cidade": "Belém", "estado": "PA", "coords": [-1.3791, -48.4244] },
+      { "cidade": "Rio Branco", "estado": "AC", "coords": [-9.9747, -67.8243] }
+    ]
+  },
+  {
+    "regiao": "Centro-Oeste",
+    "cidades": [
+      { "cidade": "Brasília", "estado": "DF", "coords": [-15.7939, -47.8828] },
+      { "cidade": "Ceres", "estado": "GO", "coords": [-15.3064, -49.5987] },
+      { "cidade": "Peixoto de Azevedo", "estado": "MT", "coords": [-10.2221, -54.9796] }
+    ]
+  },
+  {
+    "regiao": "Sudeste - Minas Gerais",
+    "cidades": [
+      { "cidade": "Conselheiro Lafaiete", "estado": "MG", "coords": [-20.6636, -43.7845] },
+      { "cidade": "Ouro Preto", "estado": "MG", "coords": [-20.3855, -43.5113] },
+      { "cidade": "Igarapé", "estado": "MG", "coords": [-20.0643, -44.3006] },
+      { "cidade": "Patrocínio", "estado": "MG", "coords": [-18.938, -46.9942] },
+      { "cidade": "Uberlândia", "estado": "MG", "coords": [-18.9146, -48.2754] },
+      { "cidade": "Ituiutaba", "estado": "MG", "coords": [-18.975, -49.4639] },
+      { "cidade": "Uberaba", "estado": "MG", "coords": [-19.7483, -47.9319] },
+      { "cidade": "Iraí de Minas", "estado": "MG", "coords": [-18.9824, -47.4614] },
+      { "cidade": "Araguari", "estado": "MG", "coords": [-18.6486, -48.1909] },
+      { "cidade": "Marataízes", "estado": "ES", "coords": [-21.0264, -40.8386] },
+      { "cidade": "Belo Horizonte", "estado": "MG", "coords": [-19.9035, -43.9526] }
+    ]
+  },
+  {
+    "regiao": "Sudeste - São Paulo",
+    "cidades": [
+      { "cidade": "São Paulo", "estado": "SP", "coords": [-23.8654, -46.7598] },
+      { "cidade": "São Paulo", "estado": "SP", "coords": [-23.4669, -46.6232] },
+      { "cidade": "Embu das Artes", "estado": "SP", "coords": [-23.6489, -46.8522] },
+      { "cidade": "Suzano", "estado": "SP", "coords": [-23.5508, -46.3145] },
+      { "cidade": "Barueri", "estado": "SP", "coords": [-23.5106, -46.8761] },
+      { "cidade": "Praia Grande", "estado": "SP", "coords": [-24.0058, -46.4024] },
+      { "cidade": "Itanhaém", "estado": "SP", "coords": [-24.1737, -46.7876] },
+      { "cidade": "Ourinhos", "estado": "SP", "coords": [-22.9794, -49.8697] },
+      { "cidade": "Santa Cruz do Rio Pardo", "estado": "SP", "coords": [-22.8986, -49.635] },
+      { "cidade": "São José do Rio Preto", "estado": "SP", "coords": [-20.8167, -49.3667] },
+      { "cidade": "Macaé", "estado": "RJ", "coords": [-22.3768, -41.784] }
+    ]
+  },
+  {
+    "regiao": "Sul",
+    "cidades": [
+      { "cidade": "Araucária", "estado": "PR", "coords": [-25.5984, -49.3983] },
+      { "cidade": "Fazenda Rio Grande", "estado": "PR", "coords": [-25.6485, -49.3073] },
+      { "cidade": "São José", "estado": "SC", "coords": [-27.6136, -48.6366] },
+      { "cidade": "Itapema", "estado": "SC", "coords": [-27.0967, -48.6158] },
+      { "cidade": "Itajaí", "estado": "SC", "coords": [-26.9101, -48.6705] },
+      { "cidade": "Porto Alegre", "estado": "RS", "coords": [-30.033, -51.23] },
+      { "cidade": "Gravataí", "estado": "RS", "coords": [-29.9137, -51.0596] },
+      { "cidade": "Caraá", "estado": "RS", "coords": [-29.7895, -50.4282] },
+      { "cidade": "Cidreira", "estado": "RS", "coords": [-30.1606, -50.2336] },
+      { "cidade": "Santa Maria", "estado": "RS", "coords": [-29.6875, -53.8056] },
+      { "cidade": "São Borja", "estado": "RS", "coords": [-28.6619, -56.0036] }
+    ]
+  },
+  {
+    "regiao": "Nordeste",
+    "cidades": [
+      { "cidade": "Fortaleza", "estado": "CE", "coords": [-3.7606, -38.5851] },
+      { "cidade": "Caucaia", "estado": "CE", "coords": [-3.7367, -38.6537] },
+      { "cidade": "Natal", "estado": "RN", "coords": [-5.7945, -35.211] },
+      { "cidade": "João Pessoa", "estado": "PB", "coords": [-7.14, -34.82] },
+      { "cidade": "Ituaçu", "estado": "BA", "coords": [-13.8167, -41.3] },
+      { "cidade": "Ilhéus", "estado": "BA", "coords": [-14.7932, -39.046] },
+      { "cidade": "Cândido Sales", "estado": "BA", "coords": [-15.5062, -41.2417] },
+      { "cidade": "Porto Franco", "estado": "MA", "coords": [-6.3433, -47.3967] }
+    ]
+  }
+]

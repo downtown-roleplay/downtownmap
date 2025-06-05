@@ -1,0 +1,33 @@
+{
+    "concluido": [
+        {
+            "title"     : "Item 1",
+            "details"   : "Detalhe.",
+            "image"     : "https://media.discordapp.net/attachments/1297588994774929482/1379656818594283651/Captura_de_Tela_1509.png?ex=68425a8a&is=6841090a&hm=bcc43babbd8847936976af4b1757186eb6887bafc76e78a402e09e58eb6115a2&=&format=webp&quality=lossless&width=1319&height=960"
+        },  
+        {   
+            "title"     : "Item 2",
+            "details"   : "Detalhe."
+        }   
+    ],  
+    "em_andamento": [   
+        {   
+            "title"     : "Item 3",
+            "details"   : "Detalhe."
+        },  
+        {   
+            "title"     : "Item 4",
+            "details"   : "Detalhe."
+        }   
+    ],  
+    "futuro": [ 
+        {   
+            "title"     : "Item 5",
+            "details"   : "Detalhe."
+        },  
+        {   
+            "title"     : "Item 6",
+            "details"   : "Detalhe."
+        }
+    ]
+}
