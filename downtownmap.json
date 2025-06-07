@@ -1,33 +1,27 @@
 {
     "concluido": [
         {
-            "title"     : "Item 1",
-            "details"   : "Detalhe.",
+            "title"     : "Direções do trem",
+            "details"   : "Mudar a direção do trem",
             "image"     : "https://media.discordapp.net/attachments/1297588994774929482/1379656818594283651/Captura_de_Tela_1509.png?ex=6844fd8a&is=6843ac0a&hm=3d6ba13faf57fb4d99b31d20822c5ec32f72890cad6988e26129337d9f318bd8&format=webp&quality=lossless&width=1319&height=960&"
-        },  
-        {   
-            "title"     : "Item 2",
-            "details"   : "Detalhe."
-        }   
+        }, 
     ],  
     "em_andamento": [   
         {   
-            "title"     : "Item 3",
-            "details"   : "Detalhe."
+            "title"     : "Garimpo",
+            "details"   : "Sistema de garimpo mais detalhado e dinamico."
+            "image"     : "https://media.discordapp.net/attachments/1297588994774929482/1379656818594283651/Captura_de_Tela_1509.png?ex=6844fd8a&is=6843ac0a&hm=3d6ba13faf57fb4d99b31d20822c5ec32f72890cad6988e26129337d9f318bd8&format=webp&quality=lossless&width=1319&height=960&"
+
         },  
         {   
-            "title"     : "Item 4",
-            "details"   : "Detalhe."
+            "title"     : "Trem (Thuca Thuca)",
+            "details"   : "Adicionar loja de trem individual por trabalho /n Adicionar sistema de upgrade de velocidade /n Adicionar mecanica para adicionar carvão, agua no trem"
         }   
     ],  
     "futuro": [ 
         {   
-            "title"     : "Item 5",
+            "title"     : "Melhoria sistema de Skills",
             "details"   : "Detalhe."
         },  
-        {   
-            "title"     : "Item 6",
-            "details"   : "Detalhe."
-        }
     ]
 }
